@@ -9,6 +9,7 @@ public class SeleniumTestNG {
 	public void firstMethod() {
 		
 		System.out.println("Welcome to Maven world");
+		System.out.println("Checking Github upload");
 		
 	}
 	
