@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="107" started-at="2018-01-22T08:56:42Z" finished-at="2018-01-22T08:56:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="107" started-at="2018-01-22T08:56:42Z" finished-at="2018-01-22T08:56:42Z">
+      <class name="com.maven.seleniumjava.SeleniumTestNG">
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:com.maven.seleniumjava.SeleniumTestNG@6d78f375]" name="firstMethod" duration-ms="28" started-at="2018-01-22T14:26:42Z" finished-at="2018-01-22T14:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+      </class> <!-- com.maven.seleniumjava.SeleniumTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
