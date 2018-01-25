@@ -4,6 +4,7 @@
 
 package com.maven.seleniumjava;
 
+import org.junit.Assert;
 import org.testng.annotations.Test;
 
 public class SeleniumTestNG {
@@ -14,6 +15,7 @@ public class SeleniumTestNG {
 		
 		System.out.println("Welcome to Maven world");
 		System.out.println("Checking Github upload");
+		Assert.assertFalse(true);
 		
 	}
 	
