@@ -1,4 +1,4 @@
-IEDriver=C:\\Selenium\\WorkSpace\\SeleniumDemo\\lib\\IEDriverServer.exe
-FirefoxDriver=C:\\Selenium\\WorkSpace\\SeleniumDemo\\lib\\geckodriver.exe
-TestDataPath=C:\\Selenium\\WorkSpace\\SeleniumDemo\\TestData
+IEDriver=C:\\Users\\DELL\\.jenkins\\workspace\\Demo_Jenkin_Job\\SeleniumDemo\\lib\\IEDriverServer.exe
+FirefoxDriver=C:\\Users\\DELL\\.jenkins\\workspace\\Demo_Jenkin_Job\\SeleniumDemo\\lib\\geckodriver.exe
+TestDataPath=C:\\Users\\DELL\\.jenkins\\workspace\\Demo_Jenkin_Job\\SeleniumDemo\\TestData
 ApplicationURL=https://www.facebook.com
