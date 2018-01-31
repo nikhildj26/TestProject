@@ -5,7 +5,7 @@
     <classes>
       <class name="com.SeleniumDemo.Driver.SeleniumDemo">
         <methods>
-          <include name="testFacebooklogin" invocation-numbers="0"/>
+          <include name="testFacebooklogin"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
